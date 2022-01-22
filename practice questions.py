@@ -12,6 +12,9 @@ import math
 a=0
 print(math.factorial(a))
 
+a=10
+print(math.factorial(a))
+
 num=2
 # num=int(input("Display multiplication table of:"))
 for i in range(1,11):
